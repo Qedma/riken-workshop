@@ -1,0 +1,21 @@
+============================================================
+BONUS EXERCISE - QESEM RESULTS SUMMARY
+============================================================
+Observable: Average Magnetization
+Circuit: 10-step Kicked Ising, 20 qubits
+Precision target: 0.05
+------------------------------------------------------------
+Ideal value:      0.632716
+Noisy value:      0.533580 ± 0.003790
+QESEM value:      0.617639 ± 0.024409
+------------------------------------------------------------
+Noisy error:      0.099136
+QESEM error:      0.015077
+Error reduction:  6.6x
+------------------------------------------------------------
+QESEM within target precision: ✓
+------------------------------------------------------------
+Total QPU time: 576.00 seconds
+Gates fidelity measured during the experiment: {'RZZ': 0.9970297948304073, 'ID1Q': 0.9992863683740001}
+Total shots / mitigation shots: 353728 / 90000
+============================================================
