@@ -6,4 +6,4 @@ This repository contains the code for the RIKEN workshop on Characterization-bas
 * The required Python packages are listed at the start of both of the notebooks, along with the installation command:
   pip install "qiskit>=2.0.0" "qiskit-ibm-runtime>=0.40.0" "qiskit-aer>=0.17.1" "networkx>=3.5" "matplotlib==3.10.0" "tqdm>=4.67.1" "scipy" "numpy" "python-dotenv==1.2.1" "pylatexenc>=2.10" 
  and for the qesem_lab_solution_qedma_api.ipynb you also need "qedma-api==0.18.3".
-* A reference solution is available in qesem_lab_solution_qedma_api.ipynb and qesem_lab_solution_qedma_riken.ipynb.
+* Reference solutions are available in qesem_lab_solution_qedma_api.ipynb and qesem_lab_solution_qedma_riken.ipynb.
