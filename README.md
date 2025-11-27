@@ -1,5 +1,5 @@
 # riken-workshop
-This repository contains the code for the RIKEN workshop on Characterization-based Error Mitigation for Quantum Computation, using the qedma_riken and qedma_api packages (provided as a pre-built .whl file) and the public qedma_api package.
+This repository contains the code for the RIKEN workshop on Characterization-based Error Mitigation for Quantum Computation, using the qedma_riken and qedma_api packages (provided as pre-built .whl files) or the public qedma_api package.
 
 * Clone the repository and run either qesem_lab_qedma_api.ipynb or qesem_lab_qedma_riken.ipynb to begin the workshop.
 * The .whl for qedma_riken and qedma_api can be installed using the command provided at the start of qesem_lab_qedma_riken.ipynb notebook.
